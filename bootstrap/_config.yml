@@ -1,3 +1,4 @@
+ 
  highlighter: rouge
  expo:             http://expo.getbootstrap.com
  
@@ -8,3 +9,9 @@
 +  css:            https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
 +  css_theme:      https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css
 +  js:             https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
