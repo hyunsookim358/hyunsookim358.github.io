@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html>
 
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Profile : Profile">
+
+   
+
+    <title>Profile</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    
+
+          <h1><h1 id="project_title">Profile</h1> 
+ <code>&lt;&gt;<a href="hyunsookim358.github.io.git">aa<img src="https://lh3.googleusercontent.com/-Htiy64eHSoc/VXwhzeWb-MI/AAAAAAAAAV4/LxAVnIARJFQ/w142-h118-no/home.jpg" style="width:50px;height:50px;></code>
+ ,
+ <code>&lt;Home&gt;<a href="hyunsookim358.github.io.git"><img src="https://lh3.googleusercontent.com/-Htiy64eHSoc/VXwhzeWb-MI/AAAAAAAAAV4/LxAVnIARJFQ/w142-h118-no/home.jpg" style="width:50px;height:50px;" alt="Home";></code>
+        </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hyunsoo Kim, 김현수</h3>
+<p>Now Let's Start!</p>
+<h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. Name:</h3>
+<p>Hyunsoo Kim.</p>
+<h3>
+<a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. Position:</h3>
+<p>Master's degree Student <a><a href="www.aalto.fi/en">@Aalto Univ.</a></p>
+<h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. BackGround:</h3>
+<p>Studied Mechanical Engineer as Bachelor in S.Korea. Worked Several years @HVAC Companies.</p>
+<h3>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. Hobby:</h3>
+<p>Watching Baseball, IceHockey. Like to listen metal Music / Interested in 3D Printer.</p>
+<h3>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. Projects Recently Done :</h3>
+<p>Duckter, EDGE, Laser Sintering.</p>
+<h3>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>-. Address:</h3>
+<p>Otaniemi, Finland.</p>
+      </section>
+    </div>
+ 
+    
+  </body>
+</html>
